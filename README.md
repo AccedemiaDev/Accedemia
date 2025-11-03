@@ -13,7 +13,7 @@ Accedemia es una plataforma educativa interactiva diseñada para enseñar las Pa
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/yourusername/accedemia.git
+   git clone https://github.com/AccedemiaDev/Accedemia.git
    cd accedemia
    ```
 
