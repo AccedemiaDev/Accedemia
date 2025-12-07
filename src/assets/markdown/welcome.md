@@ -15,7 +15,7 @@ Accedemia es una plataforma interactiva donde aprenderás a crear sitios web má
 4. **Recibe feedback** instantáneo por un asistente de Inteligencia Artificial
 5. **Avanza paso a paso** completando cada criterio de éxito
 
-> No es necesario seguir un orden linear, puedes escoger el criterio de éxito a tu gusto.
+> No es necesario seguir un orden lineal, puedes escoger el criterio de éxito a tu gusto.
 
 ## Tu misión
 
