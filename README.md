@@ -8,7 +8,7 @@
 
 Accedemia es una plataforma educativa interactiva diseñada para enseñar las Pautas de Accesibilidad para el Contenido Web (WCAG 2.2 - Nivel A) a través de ejercicios prácticos y con ayuda de inteligencia artificial. El proyecto forma parte de un proyecto de investigación sobre como mejorar la comprensión y aplicación de las pautas de accesibilidad en estudiantes y desarrolladores de programación web.
 
-<video src=".github/assets/accedemia_demo.mp4" controls muted></video>
+https://github.com/user-attachments/assets/efe5ebe6-7c0f-49dd-a627-91f2d63cd46f
 
 ## Instalación
 
